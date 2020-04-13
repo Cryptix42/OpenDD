@@ -1,0 +1,1266 @@
+﻿Log file open, 04/09/20 18:50:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DamageDoneProto
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.144929
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 3 2200G with Radeon Vega Graphics    , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=TheAidency -epicuserid=67cf391bfb0a4c86803cac69bbce615e -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:029][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.09-13.20.13:029][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.09-13.20.13:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:030][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:034][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.09-13.20.13:034][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.09-13.20.13:034][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.09-13.20.13:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.09-13.20.13:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.09-13.20.13:036][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.09-13.20.13:036][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.09-13.20.13:036][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.09-13.20.13:040][  0]LogHAL: Display: Platform has ~ 10 GB [10683629568 / 17179869184 / 10], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.09-13.20.13:041][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.09-13.20.13:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.09-13.20.13:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.09-13.20.13:042][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Scalability.ini]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.09-13.20.13:043][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Git/OpenDD/DamageDoneProto/Saved/Config/Windows/Engine.ini]
+[2020.04.09-13.20.13:043][  0]LogInit: Computer: DESKTOP-RFDKPC4
+[2020.04.09-13.20.13:044][  0]LogInit: User: Aiden
+[2020.04.09-13.20.13:044][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.09-13.20.13:044][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.09-13.20.13:044][  0]LogMemory: Memory total: Physical=9.9GB (10GB approx)
+[2020.04.09-13.20.13:044][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.09-13.20.13:044][  0]LogMemory: Process Physical Memory: 103.83 MB used, 103.83 MB peak
+[2020.04.09-13.20.13:044][  0]LogMemory: Process Virtual Memory: 100.44 MB used, 100.44 MB peak
+[2020.04.09-13.20.13:044][  0]LogMemory: Physical Memory: 6791.10 MB used,  3397.60 MB free, 10188.70 MB total
+[2020.04.09-13.20.13:044][  0]LogMemory: Virtual Memory: 5125.50 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.04.09-13.20.13:048][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.09-13.20.13:074][  0]LogInit: Using OS detected language (en-US).
+[2020.04.09-13.20.13:074][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.09-13.20.13:075][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.09-13.20.13:297][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.09-13.20.13:331][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.09-13.20.13:332][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.09-13.20.15:602][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.09-13.20.15:602][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.09-13.20.15:602][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.09-13.20.15:602][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.09-13.20.15:657][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.04.09-13.20.15:657][  0]LogD3D11RHI:       2032/0/5094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.09-13.20.15:661][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.09-13.20.15:661][  0]LogD3D11RHI:       0/0/5094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.09-13.20.15:661][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.09-13.20.15:673][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.09-13.20.15:674][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2020.04.09-13.20.15:674][  0]LogWindows: EnumDisplayDevices:
+[2020.04.09-13.20.15:674][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2020.04.09-13.20.15:675][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.09-13.20.15:675][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.09-13.20.15:676][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.09-13.20.15:677][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.09-13.20.15:677][  0]LogWindows:    5. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.09-13.20.15:678][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2020.04.09-13.20.15:678][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2020.04.09-13.20.15:678][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.1.3 (internal:26.20.15015.1007, unified:26.20.15015.1007)
+[2020.04.09-13.20.15:678][  0]LogD3D11RHI:      Driver Date: 1-17-2020
+[2020.04.09-13.20.15:678][  0]LogRHI: Texture pool is 1422 MB (70% of 2032 MB)
+[2020.04.09-13.20.15:741][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.09-13.20.15:741][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.09-13.20.15:753][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.04.09-13.20.16:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.09-13.20.16:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.09-13.20.16:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.09-13.20.16:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.09-13.20.16:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.09-13.20.16:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.09-13.20.16:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.09-13.20.16:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.09-13.20.16:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.09-13.20.16:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.09-13.20.16:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.09-13.20.16:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.09-13.20.16:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.09-13.20.16:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.09-13.20.16:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.09-13.20.16:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.09-13.20.16:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.09-13.20.16:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.09-13.20.16:993][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.09-13.20.16:997][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.09-13.20.17:077][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (F:/Git/OpenDD/DamageDoneProto/Intermediate/Shaders/WorkingDirectory/2812/).
+[2020.04.09-13.20.17:078][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aiden/AppData/Local/Temp/UnrealShaderWorkingDir/B0C705CF4833041EEF5FB0A5477794BA/'.
+[2020.04.09-13.20.17:079][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.09-13.20.17:079][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.09-13.20.17:079][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.09-13.20.26:866][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Aiden/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aiden/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Git/OpenDD/DamageDoneProto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Git/OpenDD/DamageDoneProto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-13.20.26:947][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.09-13.20.26:962][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.09-13.20.26:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-13.20.26:962][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.09-13.20.26:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aiden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.09-13.20.26:964][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.09-13.20.26:964][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.09-13.20.26:998][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.09-13.20.27:002][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.09-13.20.27:017][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.09-13.20.27:121][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.04.09-13.20.27:574][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.09-13.20.28:048][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.09-13.20.28:048][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.09-13.20.28:048][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.09-13.20.28:048][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.09-13.20.28:048][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.09-13.20.28:067][  0]LogNetVersion: DamageDoneProto 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1844639968)
+[2020.04.09-13.20.30:131][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.369293 seconds
+[2020.04.09-13.20.30:146][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.09-13.20.30:146][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.09-13.20.30:146][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.09-13.20.31:261][  0]LogPython: Using Python 2.7.14
+[2020.04.09-13.20.33:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.09-13.20.33:826][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.09-13.20.33:964][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.33:965][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.33:967][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.33:968][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.33:970][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.34:237][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.09-13.20.34:335][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.09-13.20.34:335][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.09-13.20.34:508][  0]LogOcInput: OculusInput pre-init called
+[2020.04.09-13.20.34:519][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.09-13.20.34:520][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.09-13.20.36:146][  0]LogEngine: Initializing Engine...
+[2020.04.09-13.20.36:147][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.09-13.20.36:148][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.09-13.20.36:619][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.09-13.20.36:632][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.09-13.20.36:649][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.09-13.20.36:649][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.09-13.20.36:650][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.09-13.20.36:650][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.09-13.20.36:687][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.09-13.20.36:857][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.09-13.20.36:864][  0]LogInit: FAudioDevice initialized.
+[2020.04.09-13.20.36:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.09-13.20.37:503][  0]LogDerivedDataCache: Saved boot cache 0.51s 78MB C:/Users/Aiden/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.09-13.20.37:509][  0]LogInit: Texture streaming: Enabled
+[2020.04.09-13.20.37:524][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.09-13.20.37:524][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.09-13.20.37:526][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.09-13.20.37:574][  0]LogInit: Transaction tracking system initialized
+[2020.04.09-13.20.37:588][  0]BlueprintLog: New page: Editor Load
+[2020.04.09-13.20.38:061][  0]LocalizationService: Localization service is disabled
+[2020.04.09-13.20.38:995][  0]LogFileCache: Scanning file cache for directory 'F:/Git/OpenDD/DamageDoneProto/Content/' took 0.00s
+[2020.04.09-13.20.38:995][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.09-13.20.38:996][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.09-13.20.40:079][  0]SourceControl: Source control is disabled
+[2020.04.09-13.20.40:650][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.04.09-13.20.41:109][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.04.09-13.20.41:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.04.09-13.20.41:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.04.09-13.20.41:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.04.09-13.20.41:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.04.09-13.20.41:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.04.09-13.20.41:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.04.09-13.20.41:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.04.09-13.20.41:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.04.09-13.20.41:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.04.09-13.20.41:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.04.09-13.20.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.04.09-13.20.42:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.04.09-13.20.42:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.04.09-13.20.42:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.04.09-13.20.42:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.04.09-13.20.42:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.04.09-13.20.42:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.04.09-13.20.42:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Fire01.uasset"
+[2020.04.09-13.20.42:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.04.09-13.20.42:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.04.09-13.20.42:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.04.09-13.20.42:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Light01.uasset"
+[2020.04.09-13.20.42:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.04.09-13.20.42:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Light02.uasset"
+[2020.04.09-13.20.42:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.04.09-13.20.42:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.04.09-13.20.42:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.04.09-13.20.42:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.04.09-13.20.42:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.04.09-13.20.42:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.04.09-13.20.43:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.04.09-13.20.43:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.04.09-13.20.43:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.04.09-13.20.43:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Steam01.uasset"
+[2020.04.09-13.20.43:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.04.09-13.20.43:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.04.09-13.20.43:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.04.09-13.20.43:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.04.09-13.20.43:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.04.09-13.20.43:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.04.09-13.20.43:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.04.09-13.20.43:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.04.09-13.20.43:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.04.09-13.20.43:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.04.09-13.20.43:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.04.09-13.20.43:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.04.09-13.20.43:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.04.09-13.20.43:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.04.09-13.20.43:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.04.09-13.20.43:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.04.09-13.20.43:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.04.09-13.20.45:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.04.09-13.20.45:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.04.09-13.20.45:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.04.09-13.20.45:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.04.09-13.20.45:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.04.09-13.20.45:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/StarterMap.umap"
+[2020.04.09-13.20.46:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.04.09-13.20.46:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.04.09-13.20.46:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.04.09-13.20.46:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.04.09-13.20.46:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.04.09-13.20.46:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.04.09-13.20.46:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.04.09-13.20.47:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.04.09-13.20.47:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.04.09-13.20.47:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.04.09-13.20.47:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.04.09-13.20.47:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.04.09-13.20.47:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.04.09-13.20.47:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.04.09-13.20.47:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.04.09-13.20.47:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.04.09-13.20.48:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.04.09-13.20.48:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.04.09-13.20.48:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.04.09-13.20.48:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.04.09-13.20.48:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.04.09-13.20.48:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.04.09-13.20.48:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.04.09-13.20.48:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.04.09-13.20.48:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.04.09-13.20.48:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.04.09-13.20.48:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.04.09-13.20.48:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.04.09-13.20.48:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.04.09-13.20.48:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.04.09-13.20.48:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.04.09-13.20.48:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.04.09-13.20.48:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.04.09-13.20.48:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.04.09-13.20.49:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.04.09-13.20.49:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.04.09-13.20.49:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.04.09-13.20.49:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.04.09-13.20.49:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.04.09-13.20.49:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.04.09-13.20.49:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.04.09-13.20.49:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.04.09-13.20.49:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.04.09-13.20.50:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.04.09-13.20.50:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.04.09-13.20.50:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.04.09-13.20.50:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.04.09-13.20.50:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.04.09-13.20.50:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.04.09-13.20.50:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.04.09-13.20.50:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.04.09-13.20.50:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.04.09-13.20.50:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.04.09-13.20.50:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.04.09-13.20.50:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.04.09-13.20.50:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.04.09-13.20.50:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.04.09-13.20.50:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.04.09-13.20.50:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.04.09-13.20.50:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.04.09-13.20.50:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.04.09-13.20.50:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.04.09-13.20.50:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.04.09-13.20.50:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.04.09-13.20.51:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.04.09-13.20.51:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Door.uasset"
+[2020.04.09-13.20.51:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.04.09-13.20.51:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.04.09-13.20.51:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.04.09-13.20.51:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.04.09-13.20.51:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.04.09-13.20.51:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.04.09-13.20.51:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.04.09-13.20.51:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.04.09-13.20.51:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.04.09-13.20.51:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.04.09-13.20.51:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.04.09-13.20.51:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.04.09-13.20.51:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.04.09-13.20.51:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.04.09-13.20.51:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.04.09-13.20.51:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.04.09-13.20.51:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.04.09-13.20.51:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.04.09-13.20.51:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.04.09-13.20.51:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.04.09-13.20.51:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.04.09-13.20.51:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.04.09-13.20.51:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.04.09-13.20.51:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.04.09-13.20.52:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.04.09-13.20.52:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.04.09-13.20.52:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.04.09-13.20.52:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.04.09-13.20.52:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.04.09-13.20.52:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.04.09-13.20.52:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.04.09-13.20.52:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.04.09-13.20.52:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.04.09-13.20.52:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.04.09-13.20.52:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.04.09-13.20.52:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.04.09-13.20.52:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.04.09-13.20.52:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.04.09-13.20.52:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.04.09-13.20.52:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.04.09-13.20.52:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.04.09-13.20.52:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.04.09-13.20.52:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.04.09-13.20.52:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.04.09-13.20.53:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.04.09-13.20.53:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.04.09-13.20.53:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.04.09-13.20.53:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.04.09-13.20.53:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.04.09-13.20.53:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.04.09-13.20.54:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.04.09-13.20.54:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.04.09-13.20.54:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.04.09-13.20.54:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.04.09-13.20.55:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.04.09-13.20.55:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.04.09-13.20.55:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.04.09-13.20.55:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.04.09-13.20.55:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.04.09-13.20.55:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.04.09-13.20.55:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.04.09-13.20.55:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.04.09-13.20.55:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.04.09-13.20.55:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.04.09-13.20.56:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.04.09-13.20.56:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.04.09-13.20.56:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.04.09-13.20.56:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.04.09-13.20.56:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.04.09-13.20.56:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.04.09-13.20.57:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.04.09-13.20.57:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.04.09-13.20.57:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.04.09-13.20.57:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.04.09-13.20.58:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.04.09-13.20.58:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.04.09-13.20.58:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.04.09-13.20.58:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.04.09-13.20.58:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.04.09-13.20.58:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.04.09-13.20.58:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.04.09-13.20.59:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.04.09-13.20.59:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.04.09-13.20.59:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.04.09-13.20.59:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.04.09-13.20.59:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.04.09-13.20.59:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.04.09-13.20.59:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.04.09-13.20.59:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.04.09-13.20.59:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.04.09-13.20.59:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.04.09-13.20.59:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.04.09-13.20.59:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.04.09-13.21.00:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.04.09-13.21.00:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.04.09-13.21.00:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.04.09-13.21.00:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.04.09-13.21.00:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.04.09-13.21.01:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.04.09-13.21.01:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.04.09-13.21.01:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.04.09-13.21.01:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.04.09-13.21.01:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.04.09-13.21.01:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.04.09-13.21.02:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.04.09-13.21.02:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.04.09-13.21.02:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.04.09-13.21.02:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.04.09-13.21.02:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.04.09-13.21.02:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.04.09-13.21.02:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.04.09-13.21.02:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.04.09-13.21.03:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.04.09-13.21.03:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.04.09-13.21.03:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.04.09-13.21.04:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.04.09-13.21.04:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.04.09-13.21.04:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.04.09-13.21.04:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.04.09-13.21.05:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.04.09-13.21.05:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.04.09-13.21.05:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.04.09-13.21.05:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.04.09-13.21.05:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.04.09-13.21.05:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.04.09-13.21.05:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.04.09-13.21.05:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.04.09-13.21.06:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.04.09-13.21.06:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.04.09-13.21.06:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.04.09-13.21.06:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.04.09-13.21.06:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.04.09-13.21.06:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.04.09-13.21.06:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.04.09-13.21.06:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.04.09-13.21.06:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.04.09-13.21.06:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.04.09-13.21.06:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.04.09-13.21.06:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.04.09-13.21.06:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.04.09-13.21.06:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.04.09-13.21.06:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.04.09-13.21.07:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.04.09-13.21.07:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.04.09-13.21.07:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.04.09-13.21.07:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.04.09-13.21.08:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.04.09-13.21.09:701][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.04.09-13.21.10:585][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.04.09-13.21.11:028][  0]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Floor_400x40000C33ED94ACA8BF3FF2CBAA39CD53B8B.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.04.09-13.21.11:154][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.04.09-13.21.11:161][  0]Cmd: MAP LOAD FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.09-13.21.11:162][  0]LightingResults: New page: Lighting Build
+[2020.04.09-13.21.11:163][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.09-13.21.11:163][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.09-13.21.11:164][  0]MapCheck: New page: Map Check
+[2020.04.09-13.21.11:164][  0]LightingResults: New page: Lighting Build
+[2020.04.09-13.21.11:496][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.09-13.21.12:385][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.04.09-13.21.12:457][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.09-13.21.12:509][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.09-13.21.12:510][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.09-13.21.12:510][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.04.09-13.21.12:510][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.349
+[2020.04.09-13.21.14:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-13.21.14:789][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-13.21.14:797][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-13.21.14:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.09-13.21.14:920][  0]LogCollectionManager: Loaded 0 collections in 0.002558 seconds
+[2020.04.09-13.21.15:753][  0]LogFileCache: Scanning file cache for directory 'F:/Git/OpenDD/DamageDoneProto/Saved/Collections/' took 0.00s
+[2020.04.09-13.21.15:753][  0]LogFileCache: Scanning file cache for directory 'F:/Git/OpenDD/DamageDoneProto/Content/Developers/Aiden/Collections/' took 0.00s
+[2020.04.09-13.21.15:753][  0]LogFileCache: Scanning file cache for directory 'F:/Git/OpenDD/DamageDoneProto/Content/Collections/' took 0.00s
+[2020.04.09-13.21.15:753][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 3040 classes and 730 folders.
+[2020.04.09-13.21.16:014][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.09-13.21.16:097][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.09-13.21.18:520][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.09-13.21.18:534][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.09-13.21.18:825][  0]LogSlate: Took 0.030820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.09-13.21.19:630][  0]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.09-13.21.20:497][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.09-13.21.20:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.09-13.21.20:943][  0]LogLoad: (Engine Initialization) Total time: 70.52 seconds
+[2020.04.09-13.21.20:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.09-13.21.21:000][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.04.09-13.21.21:000][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.04.09-13.21.21:415][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.09-13.21.30:906][424]LogAssetRegistry: Asset discovery search completed in 63.7864 seconds
+[2020.04.09-13.21.30:911][424]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000028 seconds (updated 0 objects)
+[2020.04.09-13.24.25:049][ 25]LogDirectoryWatcher: A directory notification failed for 'F:/Git/OpenDD/DamageDoneProto/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.09-13.24.25:049][ 25]LogDirectoryWatcher: A directory notification failed for 'F:/Git/OpenDD/DamageDoneProto/Content/Developers/Aiden/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.09-13.24.25:049][ 25]LogDirectoryWatcher: A directory notification failed for 'F:/Git/OpenDD/DamageDoneProto/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.04.09-13.29.13:390][603]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.09-13.29.17:991][603]LogAIModule: Creating AISystem for world Showcase
+[2020.04.09-13.29.18:014][603]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.04.09-13.29.18:806][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.04.09-13.29.18:807][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.04.09-13.29.18:808][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.04.09-13.29.18:808][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.09-13.29.18:808][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.09-13.29.18:809][603]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_180' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_243' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_256' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_268' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:Crouch Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:Jump Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:CameraBoom' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:PlayerCamera' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:UserConstructionScript' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:Crouch Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:Jump Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:CameraBoom' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:876][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:PlayerCamera' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.19:885][603]LogMetaData: Removing '/Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2020.04.09-13.29.20:296][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Aim_Space_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2020.04.09-13.29.20:327][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Aim_Space_HipC194199D45B0AFC5DA7C96AD0126598F.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Aim_Space_Hip.uasset'
+[2020.04.09-13.29.20:360][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Aim_Space_Ironsights" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2020.04.09-13.29.20:385][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Aim_Space_IronsightsF97A23174020CCEA693B94AE848A9E20.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2020.04.09-13.29.20:467][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/BS_CrouchWalk" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2020.04.09-13.29.20:489][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/BS_CrouchWalk5ECFF49349F5A76A96E240886960C5F2.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/BS_CrouchWalk.uasset'
+[2020.04.09-13.29.20:517][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/BS_Jog" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2020.04.09-13.29.20:538][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/BS_Jog2C7D6BD24A0B6728F95916B1FE23786B.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/BS_Jog.uasset'
+[2020.04.09-13.29.20:591][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Idle_Rifle_HipACD054FC410D480B8E32118AB0A246A6.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2020.04.09-13.29.20:641][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Idle_Rifle_IronsightsB4060DDC4B6D6458BC9397A7A4057D64.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.20:693][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_to_Stand_Rifle_Hip159012D044CE5D5FBB9C8BB44E3EDE14.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2020.04.09-13.29.20:743][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_to_Stand_Rifle_Ironsights8FA01EB844B51F574455498BE5D7CB64.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.20:797][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Bwd_Rifle_Hip58E8532340FD3DA1EA66DA9445D8894E.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.04.09-13.29.20:850][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Bwd_Rifle_Ironsights1E3D458446A6C02FFA775DB0E95F8A67.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.21:155][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Fwd_Rifle_Hip69DE27184DCBF709C13B9F8966D8B30A.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.04.09-13.29.21:208][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Fwd_Rifle_IronsightsFB7336CF498EE004E2063FA06769BFBC.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.21:273][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Lt_Rifle_Hip4D2040F247F946A3AE10909AB3ACC2E2.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.04.09-13.29.21:322][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Lt_Rifle_Ironsights2AE6746040FE8D629C0819A34E4D42BC.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.21:389][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Rt_Rifle_Hip29BBA4004E1B22E490247893AF108E4B.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.04.09-13.29.21:441][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Crouch_Walk_Rt_Rifle_IronsightsE8A33B2B4EE00093E532A6BE38D7204A.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.21:471][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Death_1" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_1.uasset" SILENT=true
+[2020.04.09-13.29.21:509][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Death_1EBD73B804A99C99B3BA7E8BCF6C61606.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_1.uasset'
+[2020.04.09-13.29.21:539][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Death_2" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_2.uasset" SILENT=true
+[2020.04.09-13.29.21:580][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Death_2ED9931AF4813531FACD55B8606A014B3.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_2.uasset'
+[2020.04.09-13.29.21:609][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Death_3" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_3.uasset" SILENT=true
+[2020.04.09-13.29.21:630][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Death_36759011849ACD6FCAA464195826FD8DC.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_3.uasset'
+[2020.04.09-13.29.21:660][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Death_Ironsights_1" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2020.04.09-13.29.21:682][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Death_Ironsights_184BBA5574022FEDB9491AFBA77E71549.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_Ironsights_1.uasset'
+[2020.04.09-13.29.21:710][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Death_Ironsights_2" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2020.04.09-13.29.21:752][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Death_Ironsights_21AE706A44EFAE39A44D9C5ABEAFEB170.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Death_Ironsights_2.uasset'
+[2020.04.09-13.29.21:805][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Equip_Pistol_Standing8BD4E0FE485313BDB183A69DC5513AC9.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2020.04.09-13.29.21:834][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Equip_Rifle_Standing" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2020.04.09-13.29.21:853][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Equip_Rifle_StandingD765FA374894BB6FD9C61D97563FC8BE.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2020.04.09-13.29.21:880][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Fire_Rifle_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2020.04.09-13.29.21:902][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Fire_Rifle_HipA8807FA140D3A075ABE4589766756000.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2020.04.09-13.29.21:953][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Fire_Rifle_Ironsights7E4966A8465072E609975CBF0C24F5BE.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.21:981][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Fire_Shotgun_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2020.04.09-13.29.22:004][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Fire_Shotgun_Hip2D1D7F6542F418D0C2667FB1FE5F9FF9.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2020.04.09-13.29.22:054][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Fire_Shotgun_IronsightsA412D06A44017CBB430FD8A525CC84E2.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2020.04.09-13.29.22:083][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Hit_React_1" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2020.04.09-13.29.22:108][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Hit_React_18066CAB946D823154B1F52A0BB7C1035.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_1.uasset'
+[2020.04.09-13.29.22:136][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Hit_React_2" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2020.04.09-13.29.22:202][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Hit_React_29A21EB744FA52E5844D084AE6894739C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_2.uasset'
+[2020.04.09-13.29.22:233][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Hit_React_3" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2020.04.09-13.29.22:254][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Hit_React_393DACFC2410C7158A799E2BA297476AA.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_3.uasset'
+[2020.04.09-13.29.22:282][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Hit_React_4" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2020.04.09-13.29.22:306][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Hit_React_4D58557AE4077656D636A42834EA22EBC.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Hit_React_4.uasset'
+[2020.04.09-13.29.22:335][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Idle_Pistol" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2020.04.09-13.29.22:358][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Idle_Pistol4E6A52004DC888736949BBBDEB358C26.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Pistol.uasset'
+[2020.04.09-13.29.22:388][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Idle_Rifle_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2020.04.09-13.29.22:416][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Idle_Rifle_HipACC6B6ED405A27DBEB2587931321EE79.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2020.04.09-13.29.22:467][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Idle_Rifle_Hip_Break1BB7893964A5C04B6BFEEFAB2374AF16C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2020.04.09-13.29.22:521][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Idle_Rifle_Hip_Break2C5E7CC2743A3AE1AE8AD7699B6701642.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2020.04.09-13.29.22:614][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Idle_Rifle_Ironsights2CA5C1494CE1A3E57BD677BF2895B6A1.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.22:643][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jog_Bwd_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.22:673][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jog_Bwd_RifleDE8365D84E016E0E41FCD4A7ECEDE15C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2020.04.09-13.29.22:702][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jog_Fwd_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.22:723][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jog_Fwd_RifleE938F1C349FF17E3AA74EE990290CCD1.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2020.04.09-13.29.22:754][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jog_Lt_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.22:774][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jog_Lt_RifleBBB4B83F4B902C03C49451A5E06F5345.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2020.04.09-13.29.22:803][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jog_Rt_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.22:842][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jog_Rt_Rifle570D7084452B556ADD93AAA8C9EDF80C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2020.04.09-13.29.22:870][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jump_From_Jog" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jump_From_Jog.uasset" SILENT=true
+[2020.04.09-13.29.22:927][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jump_From_Jog5DDDBB604E937BA163D00D9A4BCFE44C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jump_From_Jog.uasset'
+[2020.04.09-13.29.22:956][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Jump_From_Stand" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jump_From_Stand.uasset" SILENT=true
+[2020.04.09-13.29.22:981][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jump_From_Stand34937D104564BE6640658CA9AB994AE9.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jump_From_Stand.uasset'
+[2020.04.09-13.29.23:036][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Jump_From_Stand_IronsightsB8A18BE7478BAC51DB9A13BD907B4DD0.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Jump_From_Stand_Ironsights.uasset'
+[2020.04.09-13.29.23:064][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Death_1" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Death_1.uasset" SILENT=true
+[2020.04.09-13.29.23:085][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Death_12B28349E4E3C4C8F8664E1AD81EC386E.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Death_1.uasset'
+[2020.04.09-13.29.23:113][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Death_2" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Death_2.uasset" SILENT=true
+[2020.04.09-13.29.23:134][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Death_2EF7FCFF545ECFCDC89A816B275C1BEE5.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Death_2.uasset'
+[2020.04.09-13.29.23:162][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Fire_1" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Fire_1.uasset" SILENT=true
+[2020.04.09-13.29.23:182][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Fire_1F932082B434CFDB2509EE9A987F10DC9.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Fire_1.uasset'
+[2020.04.09-13.29.23:210][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Fire_2" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Fire_2.uasset" SILENT=true
+[2020.04.09-13.29.23:234][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Fire_23FCCDCF34728B6BCC1A5318BCAE881FE.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Fire_2.uasset'
+[2020.04.09-13.29.23:264][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Idle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Idle.uasset" SILENT=true
+[2020.04.09-13.29.23:288][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Idle9C5C51AB496EF23790FB1697AC82564E.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Idle.uasset'
+[2020.04.09-13.29.23:318][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Reload_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Reload_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.23:339][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Reload_Rifle1BF6CC2644866B7461CFBE9B242207D0.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Reload_Rifle.uasset'
+[2020.04.09-13.29.23:368][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_Reload_Shotgun" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Reload_Shotgun.uasset" SILENT=true
+[2020.04.09-13.29.23:390][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_Reload_Shotgun3F56BEFF433EE516E9AAEAAABD8600F8.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_Reload_Shotgun.uasset'
+[2020.04.09-13.29.23:420][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Prone_To_Stand" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_To_Stand.uasset" SILENT=true
+[2020.04.09-13.29.23:447][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Prone_To_Stand82301FB4404225246D29348B6E1F980B.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Prone_To_Stand.uasset'
+[2020.04.09-13.29.23:475][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Reload_Pistol" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Pistol.uasset" SILENT=true
+[2020.04.09-13.29.23:501][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Reload_Pistol87C94EAA40773981E73C89BC2E7E15C6.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Pistol.uasset'
+[2020.04.09-13.29.23:530][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Reload_Rifle_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2020.04.09-13.29.23:554][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Reload_Rifle_Hip96E2E30A48442196BE5ECBB88972C7F7.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2020.04.09-13.29.23:605][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Reload_Rifle_Ironsights949B455E489B66F1AB0A05A2885BCC58.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.23:633][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Reload_Shotgun_Hip" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Shotgun_Hip.uasset" SILENT=true
+[2020.04.09-13.29.23:662][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Reload_Shotgun_Hip52CC2D5C4E08282BB09077B44C85A6A5.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Shotgun_Hip.uasset'
+[2020.04.09-13.29.23:716][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Reload_Shotgun_Ironsights9C9D89EC44095775E663C8A81711062C.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Reload_Shotgun_Ironsights.uasset'
+[2020.04.09-13.29.23:742][603]LogActorComponent: RegisterComponentWithWorld: (/Game/StarterContent/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.04.09-13.29.23:966][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.09-13.29.24:056][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Showcase1CAEA85249F7A76713188E8C6E65AFD1.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Showcase.umap'
+[2020.04.09-13.29.24:066][603]LogFileHelpers: Saving map 'Showcase' took 0.327
+[2020.04.09-13.29.24:095][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Sprint_Fwd_Rifle" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2020.04.09-13.29.24:115][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Sprint_Fwd_Rifle9AA4BA1C42589BF7BC2D42A2FD6086F9.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Sprint_Fwd_Rifle.uasset'
+[2020.04.09-13.29.24:165][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Stand_to_Crouch_Rifle_HipD13867154F615024FAC2FCB844DB7FE6.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset'
+[2020.04.09-13.29.24:218][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Stand_to_Crouch_Rifle_IronsightsA19F2CCA477268E0333C37A5D4B18336.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.24:247][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Stand_To_Prone" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Stand_To_Prone.uasset" SILENT=true
+[2020.04.09-13.29.24:267][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Stand_To_Prone8942A4414814E552F25FCCBA27BC0996.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Stand_To_Prone.uasset'
+[2020.04.09-13.29.24:397][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/AnimStarterPack/Ue4ASP_Character" FILE="F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2020.04.09-13.29.24:579][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Ue4ASP_Character8373D3424175409B9A70D7BE713CE0AD.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Ue4ASP_Character.uasset'
+[2020.04.09-13.29.24:769][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4ASP_HeroTPP_AnimBlueprint69DB3B75413F9D9FBB4EE48338829F32.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2020.04.09-13.29.24:822][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Walk_Bwd_Rifle_Ironsights98B8EA9E4AC14473E5383694646B2480.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.24:873][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Walk_Fwd_Rifle_Ironsights49FE922C47B219C3389FA8A11A256314.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.24:924][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Walk_Lt_Rifle_IronsightsC5065B7E4008E9B1C595B08FFB0317D0.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.25:196][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/Walk_Rt_Rifle_Ironsights93D2EE9E4ABE8864ADAD6EA95C31C13A.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset'
+[2020.04.09-13.29.25:320][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/M_UE4Man_BodyE7B1B60F4005FF76C6CD93B44D50A682.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset'
+[2020.04.09-13.29.25:400][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/M_UE4Man_ChestLogo2DB40AD64AB5DCDA7CA405904C638F00.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset'
+[2020.04.09-13.29.25:428][603]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.09-13.29.25:719][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.04.09-13.29.25:719][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.04.09-13.29.25:720][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.04.09-13.29.25:862][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/ML_GlossyBlack_Latex_UE43334B7594C38B8EAF3995DB178FDB4A4.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.04.09-13.29.25:911][603]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.04.09-13.29.25:995][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/ML_Plastic_Shiny_BeigeBB8ED6E1407FCD1C690DFB93D05EC994.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.04.09-13.29.26:051][603]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.04.09-13.29.26:307][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/ML_Plastic_Shiny_Beige_LOGO88B85B044D433DA423FC2AB359C40DD0.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.04.09-13.29.26:425][603]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.04.09-13.29.26:514][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/ML_SoftMetal_UE4FA6215C440F8AE7FB938388C23CEB5DE.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.04.09-13.29.26:549][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/T_ML_Aluminum01493287794F868FA36F0FF5A533E36038.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.04.09-13.29.26:627][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/T_ML_Aluminum01_NB0DB824547B8B19D1A90908E3D34507F.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.04.09-13.29.26:668][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/T_ML_Rubber_Blue_01_DAFB025634EB85F33FF85CE8F3431693E.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.04.09-13.29.26:704][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/T_ML_Rubber_Blue_01_N6EEAC0BC47536CBED98F69B657A8D43E.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.04.09-13.29.26:936][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/SK_Mannequin23E862E84214E1A86D0137B4E9F11175.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2020.04.09-13.29.27:039][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/SK_Mannequin_PhysicsAsset66B51218418B01BE4BD274ABD8C5AA7D.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2020.04.09-13.29.27:081][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4_Mannequin_SkeletonFDB1E7814EA7832FBDDC549500F59359.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.04.09-13.29.27:114][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4Man_Logo_N60B2D67C43E9255413CB5193ABFCEF80.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset'
+[2020.04.09-13.29.27:144][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4_LOGO_CARD215E3F2244CCB3022D33AEAE2BDF1C49.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset'
+[2020.04.09-13.29.27:303][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4_Mannequin_MAT_MASKAFD81A30C46D8C7F92059B287AAFA47D6.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2020.04.09-13.29.27:338][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4_Mannequin_occlusion_MobileC35D82AC4769B7AD8C2267ACFDD233AC.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2020.04.09-13.29.27:682][603]LogSavePackage: Moving 'F:/Git/OpenDD/DamageDoneProto/Saved/UE4_Mannequin__normals69B79BA44F91025704A72FBE84601EEB.tmp' to 'F:/Git/OpenDD/DamageDoneProto/Content/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset'
+[2020.04.09-13.29.32:428][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2020.04.09-13.29.33:185][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2020.04.09-13.29.35:083][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.09-13.29.35:119][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.04.09-13.29.35:152][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.04.09-13.29.35:180][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.09-13.29.35:208][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.35:236][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-13.29.35:268][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.09-13.29.35:300][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.09-13.29.35:328][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.09-13.29.35:356][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-13.29.35:384][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.04.09-13.29.35:421][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-13.29.35:448][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.35:477][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.09-13.29.35:512][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-13.29.35:540][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-13.29.35:572][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.09-13.29.35:599][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.35:625][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-13.29.35:654][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.09-13.29.35:681][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.09-13.29.35:717][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-13.29.35:743][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-13.29.35:770][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.35:797][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.09-13.29.35:824][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.04.09-13.29.35:991][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.36:288][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2020.04.09-13.29.36:288][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.09-13.29.37:156][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 76
+[2020.04.09-13.29.37:156][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.04.09-13.29.37:156][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-13.29.39:723][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.09-13.29.39:761][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2020.04.09-13.29.39:761][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-13.29.40:773][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-13.29.41:308][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2020.04.09-13.29.41:308][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.04.09-13.29.41:308][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.09-13.29.46:166][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.04.09-13.29.46:166][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.04.09-13.29.46:253][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.04.09-13.29.46:298][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.09-13.29.46:362][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2020.04.09-13.29.46:362][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.09-13.29.46:398][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.09-13.29.48:772][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.04.09-13.29.48:772][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.09-13.29.50:649][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.04.09-13.29.50:649][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.09-13.29.52:362][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.04.09-13.29.52:362][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.09-13.29.52:433][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.52:766][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.09-13.29.52:808][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.04.09-13.29.52:808][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.09-13.29.52:935][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.04.09-13.29.52:935][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.09-13.29.53:428][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.09-13.29.53:469][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.09-13.29.53:506][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-13.29.53:540][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.53:590][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.04.09-13.29.53:619][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.04.09-13.29.53:657][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.04.09-13.29.53:691][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-13.29.53:732][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-13.29.53:768][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-13.29.53:802][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.53:835][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-13.29.53:867][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.53:901][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-13.29.53:932][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.09-13.29.53:970][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.09-13.29.54:002][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-13.29.54:036][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.09-13.29.54:090][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.09-13.29.54:122][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.09-13.29.54:153][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.09-13.29.54:184][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.09-13.29.54:225][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.09-13.29.54:262][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.09-13.29.54:294][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.54:344][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.09-13.29.54:375][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.04.09-13.29.54:407][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.09-13.29.54:435][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.04.09-13.29.54:471][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.09-13.29.54:505][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.09-13.29.54:537][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.09-13.29.54:567][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-13.29.54:602][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.04.09-13.29.54:637][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.09-13.29.54:670][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.04.09-13.29.54:708][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.04.09-13.29.54:743][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.04.09-13.29.54:774][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.04.09-13.29.54:806][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.04.09-13.29.54:841][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.09-13.29.54:868][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.09-13.29.55:647][603]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating BlendSpace /Game/StarterContent/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating BlendSpace /Game/StarterContent/AnimStarterPack/BS_Jog.BS_Jog
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Death_1.Death_1
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Death_2.Death_2
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Death_3.Death_3
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2020.04.09-13.29.55:647][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Hit_React_1.Hit_React_1
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Hit_React_2.Hit_React_2
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Hit_React_3.Hit_React_3
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Hit_React_4.Hit_React_4
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Idle.Prone_Idle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2020.04.09-13.29.55:648][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating World /Game/StarterContent/AnimStarterPack/Showcase.Showcase
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2020.04.09-13.29.55:649][603]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2020.04.09-13.29.55:664][603]LogContentValidation: Display: Validating AnimBlueprint /Game/StarterContent/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2020.04.09-13.29.55:664][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating AnimSequence /Game/StarterContent/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Material /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating MaterialFunction /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating MaterialFunction /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating MaterialFunction /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating MaterialFunction /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating SkeletalMesh /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating PhysicsAsset /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Skeleton /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.04.09-13.29.55:665][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+[2020.04.09-13.29.55:666][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2020.04.09-13.29.55:666][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2020.04.09-13.29.55:666][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile
+[2020.04.09-13.29.55:666][603]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F41C8FE-43BE-6D11-071B-84B8C29BEB66%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=47ac4dfb47db4abcca7378a2c3ebb470%7C67cf391bfb0a4c86803cac69bbce615e%7Cca7090b4-fa3f-441f-ba74-c297fd7e6858&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20fe90e7f70 [can pipeline])
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.69.246) port 443 (#9))
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: 0000020FBFF9F100: libcurl info message cache 7 (Closing connection 9)
+[2020.04.09-13.48.21:359][410]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F41C8FE-43BE-6D11-071B-84B8C29BEB66%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=47ac4dfb47db4abcca7378a2c3ebb470%7C67cf391bfb0a4c86803cac69bbce615e%7Cca7090b4-fa3f-441f-ba74-c297fd7e6858&AppEnvironment=datacollector-binary&UploadType=eteventstream
